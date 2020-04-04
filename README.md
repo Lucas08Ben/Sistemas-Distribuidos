@@ -1,2 +1,2 @@
 # Sistemas-Distribuidos
-Bruno Bezerra
+Professor: Bruno Bezerra
